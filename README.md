@@ -16,7 +16,7 @@ Ever wondered if you should grab a jacket or an umbrella before heading out? Thi
 
 ## 📸 Application Preview
 
-A glimpse of the application in action, showing the weather for Nagpur.
+A glimpse of the application in action, showing the weather for Jaipur.
 
 ![Weather App Screenshot](src/assets/weather-app-preview.png)
 
