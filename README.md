@@ -18,7 +18,7 @@ Ever wondered if you should grab a jacket or an umbrella before heading out? Thi
 
 A glimpse of the application in action, showing the weather for Nagpur.
 
-![Weather App Screenshot](src\assets\weather-app-preview.png)
+![Weather App Screenshot](src/assets/weather-app-preview.png)
 
 ## 🛠️ Tech Stack
 
